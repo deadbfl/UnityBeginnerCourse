@@ -14,10 +14,10 @@ public class Variables : MonoBehaviour
 
     private void Start()
     {
-        //Debug.Log(tamSayi);
-        //Debug.Log(kesirliSayi);
-        //Debug.Log(karakter);
-        //Debug.Log(metin);
-        //Debug.Log(boolen);
+        Debug.Log(tamSayi);
+        Debug.Log(kesirliSayi);
+        Debug.Log(karakter);
+        Debug.Log(metin);
+        Debug.Log(boolen);
     }
 }

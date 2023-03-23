@@ -5,7 +5,7 @@ using UnityEngine;
 public class Loops : MonoBehaviour
 {
     public int health;
-    // Start is called before the first frame update
+
     void Start()
     {
         for (int i = 0; i < 10; i += 2)// kac kez tekrar yapilacagi girilir (baslangicDegeri, bitisDegeri, artisMiktari)
@@ -20,11 +20,5 @@ public class Loops : MonoBehaviour
             print(health);
             // yapilacak islemi yazmam gerekiyor
         }
-    }
-
-    // Update is called once per frame
-    void Update()
-    {
-
     }
 }

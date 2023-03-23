@@ -11,8 +11,11 @@ public class IfTest : MonoBehaviour
         //if (health < 0 || health > 100) print(health);
 
         //if (health != 0) print("canim var");
+        
         //print(health += 13); // aslinda health = health + 13;
+       
         //print(health % 5); // Mod Alma
+        
         //print(health);
         //health++;
         //print(health);

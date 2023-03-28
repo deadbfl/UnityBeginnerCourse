@@ -8,7 +8,7 @@ public class Loops : MonoBehaviour
 
     void Start()
     {
-        for (int i = 0; i < 10; i += 2)// kac kez tekrar yapilacagi girilir (baslangicDegeri, bitisDegeri, artisMiktari)
+        for (int i = 0; i < 10; i += 2)// kac kez tekrar yapilacagi girilir (baslangicDegeri; bitisDegeri; artisMiktari)
         {
             print(i);
             // yapilacak islemi yazmam gerekiyor

@@ -1,0 +1,501 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1695571534948171, "dur":1171, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571534949349, "dur":55, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1695571534949417, "dur":17, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1695571534949435, "dur":535, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1695571534949996, "dur":594, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571534950590, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765094, "dur":303, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765397, "dur":36, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765433, "dur":4, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765437, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765442, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765443, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765447, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765447, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765452, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765452, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765456, "dur":18, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765474, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765478, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765479, "dur":27, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765506, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765507, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765511, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765512, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765516, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765517, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765520, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765521, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765525, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765526, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765529, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765530, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765533, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765534, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765537, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765538, "dur":3, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765541, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765543, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765547, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765559, "dur":2, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535765597, "dur":986, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1695571534950238, "dur":360, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695571534950600, "dur":4108, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695571534954724, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1695571534954731, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695571534955713, "dur":302, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1695571534956019, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1695571534956041, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695571534956312, "dur":2902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/app.info" }}
+,{ "pid":12345, "tid":1, "ts":1695571534959217, "dur":122, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1695571534959342, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695571534959914, "dur":1907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":1, "ts":1695571534961864, "dur":234378, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695571535196245, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695571535196251, "dur":17902, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695571535214202, "dur":153395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695571535367602, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695571535367611, "dur":2785, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695571535370418, "dur":201768, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695571535572193, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1695571535572205, "dur":1698, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":1, "ts":1695571535573926, "dur":191194, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571534950273, "dur":330, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571534950603, "dur":4116, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571534954723, "dur":315, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1695571534955153, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571534957182, "dur":2487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":2, "ts":1695571534959729, "dur":112, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1695571534959844, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571534959849, "dur":3602, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":2, "ts":1695571534963516, "dur":28850, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1695571534992374, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571534992386, "dur":2935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":2, "ts":1695571534995430, "dur":31577, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535027016, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571535027027, "dur":2220, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535029269, "dur":72231, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535101795, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571535101808, "dur":4305, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535106131, "dur":33797, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535139953, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571535139967, "dur":1661, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535141648, "dur":40024, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535181677, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571535181687, "dur":1755, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535183465, "dur":38507, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535221980, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571535221995, "dur":1605, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535223618, "dur":38746, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535262368, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571535262377, "dur":19187, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535281598, "dur":106734, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535388337, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571535388345, "dur":3033, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535391399, "dur":67738, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535459144, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571535459156, "dur":1341, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535460515, "dur":236365, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535696884, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1695571535696890, "dur":833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":2, "ts":1695571535697737, "dur":67357, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695571534950300, "dur":307, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695571534950608, "dur":4104, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695571534954724, "dur":12585, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1695571534967312, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695571534967326, "dur":1468, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1695571534968867, "dur":37046, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695571535005917, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695571535005925, "dur":2104, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695571535008067, "dur":32314, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695571535040388, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695571535040401, "dur":3973, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695571535044400, "dur":98183, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695571535142587, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695571535142594, "dur":2266, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695571535144877, "dur":50808, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695571535195690, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695571535195698, "dur":2122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695571535197855, "dur":112236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695571535310095, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695571535310103, "dur":2025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695571535312157, "dur":219490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695571535531651, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695571535531659, "dur":5813, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":3, "ts":1695571535537488, "dur":11, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1695571535537502, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695571535537506, "dur":3596, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/level0" }}
+,{ "pid":12345, "tid":3, "ts":1695571535541119, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1695571535541134, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1695571535541139, "dur":2013, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":3, "ts":1695571535543196, "dur":221929, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695571534950363, "dur":248, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695571534950611, "dur":4105, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695571534954723, "dur":661, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1695571534955387, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695571534957202, "dur":4298, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":4, "ts":1695571534961554, "dur":131522, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695571535093084, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695571535093365, "dur":6273, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695571535099695, "dur":41066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695571535140767, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695571535140778, "dur":1935, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695571535142730, "dur":74407, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695571535217141, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695571535217168, "dur":1794, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695571535218996, "dur":41905, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695571535260907, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695571535260918, "dur":4538, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695571535265476, "dur":141088, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695571535406568, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695571535406576, "dur":6724, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695571535413333, "dur":254671, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695571535668009, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1695571535668018, "dur":2176, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":4, "ts":1695571535670216, "dur":94881, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695571534950396, "dur":219, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695571534950615, "dur":4095, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695571534954722, "dur":49035, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1695571535003760, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695571535004036, "dur":2683, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":5, "ts":1695571535006771, "dur":92508, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695571535099285, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695571535099295, "dur":6554, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695571535105869, "dur":39972, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695571535145845, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695571535145881, "dur":3025, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695571535148927, "dur":55664, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695571535204596, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695571535204605, "dur":2062, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695571535206699, "dur":59125, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695571535265827, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695571535265836, "dur":12689, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695571535278564, "dur":126748, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695571535405317, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695571535405326, "dur":4146, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695571535409494, "dur":242903, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695571535652402, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1695571535652409, "dur":1833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":5, "ts":1695571535654258, "dur":110846, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695571534950417, "dur":202, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695571534950619, "dur":4098, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695571534954724, "dur":464, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1695571534955190, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695571534975900, "dur":11695, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":6, "ts":1695571534987648, "dur":42622, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695571535030276, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695571535030285, "dur":2157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695571535032467, "dur":199100, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695571535231570, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695571535231577, "dur":5737, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695571535237338, "dur":98740, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695571535336084, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695571535336096, "dur":1537, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695571535337652, "dur":77685, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695571535415341, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695571535415350, "dur":1413, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695571535416793, "dur":225306, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695571535642102, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1695571535642109, "dur":1122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":6, "ts":1695571535643251, "dur":121848, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571534950581, "dur":41, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571534950622, "dur":4104, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571534954726, "dur":11912, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1695571534966642, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571534966662, "dur":1332, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1695571534968092, "dur":91324, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695571535059420, "dur":75, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535059504, "dur":1503, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695571535061041, "dur":94798, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695571535155847, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535155861, "dur":1932, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695571535157816, "dur":73339, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695571535231162, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535231175, "dur":1801, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695571535233011, "dur":51227, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695571535284244, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535284259, "dur":1579, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695571535285858, "dur":127304, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695571535413169, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535413182, "dur":1582, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695571535414783, "dur":81351, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695571535496140, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535496149, "dur":1498, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":7, "ts":1695571535497683, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1695571535497708, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535497850, "dur":1208, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":7, "ts":1695571535499075, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":7, "ts":1695571535499090, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535499096, "dur":3896, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/sharedassets0.resource" }}
+,{ "pid":12345, "tid":7, "ts":1695571535503023, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1695571535503048, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535503058, "dur":22424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1695571535525505, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1695571535525520, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535525527, "dur":2079, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":7, "ts":1695571535527639, "dur":297, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1695571535527941, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535527952, "dur":1035, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":7, "ts":1695571535529002, "dur":1020, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1695571535530028, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535530040, "dur":4219, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":7, "ts":1695571535534278, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1695571535534293, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535534299, "dur":1022, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":7, "ts":1695571535535338, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1695571535535352, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535535357, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/resources.assets" }}
+,{ "pid":12345, "tid":7, "ts":1695571535537261, "dur":12, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1695571535537276, "dur":5, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535537286, "dur":3562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/level0.resS" }}
+,{ "pid":12345, "tid":7, "ts":1695571535540873, "dur":13, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1695571535540888, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1695571535540896, "dur":1753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":7, "ts":1695571535542674, "dur":222418, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695571534950609, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695571534950609, "dur":4111, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695571534954722, "dur":13713, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1695571534968439, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695571534968459, "dur":1430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":8, "ts":1695571534969942, "dur":36846, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695571535006791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695571535006799, "dur":2238, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695571535009054, "dur":112083, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695571535121143, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695571535121153, "dur":1959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695571535123151, "dur":35862, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695571535159051, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695571535159071, "dur":1704, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695571535160798, "dur":148007, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695571535308813, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695571535308858, "dur":2572, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695571535311459, "dur":240147, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695571535551614, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1695571535551629, "dur":1889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":8, "ts":1695571535553552, "dur":211567, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695571534950641, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695571534950641, "dur":4084, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695571534954725, "dur":316, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1695571534955158, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695571534966262, "dur":2584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":9, "ts":1695571534968921, "dur":54490, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535023415, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695571535023423, "dur":1130, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535024569, "dur":60855, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535085430, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695571535085439, "dur":1710, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535087180, "dur":45165, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535132350, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695571535132359, "dur":1276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535133655, "dur":35554, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535169216, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695571535169227, "dur":2259, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535171504, "dur":51686, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535223194, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695571535223205, "dur":1201, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535224437, "dur":98191, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535322634, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695571535322643, "dur":7287, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535329963, "dur":149115, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535479085, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695571535479100, "dur":1580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535480698, "dur":63255, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535543955, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1695571535543962, "dur":907, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1695571535544886, "dur":220236, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695571534950771, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695571534950772, "dur":3946, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695571534954722, "dur":12888, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1695571534967613, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695571534967638, "dur":1447, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":10, "ts":1695571534969186, "dur":66420, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695571535035609, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695571535035616, "dur":1264, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695571535036900, "dur":213522, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695571535250427, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695571535250435, "dur":1859, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695571535252314, "dur":39437, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695571535291757, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695571535291770, "dur":2116, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695571535293920, "dur":319652, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695571535613576, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1695571535613584, "dur":2526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":10, "ts":1695571535616154, "dur":148957, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695571534950798, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695571534950798, "dur":3913, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695571534954722, "dur":273, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1695571534954997, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695571534957506, "dur":2597, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":11, "ts":1695571534960201, "dur":16950, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571534977157, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695571534977529, "dur":5170, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571534982751, "dur":159162, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571535141917, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695571535141924, "dur":1454, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571535143410, "dur":58940, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571535202356, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695571535202366, "dur":1707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571535204102, "dur":55449, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571535259554, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695571535259561, "dur":1874, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571535261454, "dur":72080, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571535333539, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695571535333548, "dur":1023, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571535334587, "dur":122107, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571535456701, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695571535456763, "dur":1456, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571535458254, "dur":304708, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571535762965, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1695571535762973, "dur":2054, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":11, "ts":1695571535765061, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":11, "ts":1695571535765064, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695571534950943, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695571534950944, "dur":3780, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695571534954724, "dur":12602, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1695571534967329, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695571534967343, "dur":1374, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":12, "ts":1695571534968795, "dur":34163, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695571535002963, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695571535003430, "dur":2379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695571535005831, "dur":35451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695571535041285, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695571535041292, "dur":4075, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695571535045384, "dur":145356, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695571535190748, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695571535190761, "dur":3122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695571535193916, "dur":41371, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695571535235292, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695571535235301, "dur":2642, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695571535237962, "dur":208058, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695571535446028, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695571535446041, "dur":2269, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695571535448330, "dur":89066, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695571535537399, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695571535537405, "dur":4578, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":12, "ts":1695571535542013, "dur":276, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1695571535542293, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1695571535542303, "dur":1352, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1695571535543668, "dur":221423, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695571534950976, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695571534950977, "dur":3745, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695571534954724, "dur":323, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1695571534955161, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695571534966604, "dur":3441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":13, "ts":1695571534970107, "dur":51044, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535021156, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695571535021167, "dur":1479, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535022678, "dur":35359, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535058045, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695571535058059, "dur":2034, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535060116, "dur":43236, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535103357, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695571535103366, "dur":11573, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535114977, "dur":68787, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535183767, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695571535183776, "dur":2763, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535186564, "dur":37224, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535223791, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695571535223798, "dur":6129, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535229966, "dur":65232, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535295202, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695571535295211, "dur":2766, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535298007, "dur":93437, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535391448, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695571535391456, "dur":1937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535393414, "dur":233180, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535626597, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1695571535626602, "dur":1093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":13, "ts":1695571535627709, "dur":137392, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695571534950996, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695571534950996, "dur":3727, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695571534954723, "dur":451, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1695571534955177, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695571534967114, "dur":3019, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":14, "ts":1695571534970188, "dur":34841, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695571535005037, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695571535005200, "dur":1512, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695571535006733, "dur":35278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695571535042016, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695571535042025, "dur":8038, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695571535050106, "dur":86694, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695571535136803, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695571535136812, "dur":2036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695571535138870, "dur":71081, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695571535209958, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695571535209972, "dur":1393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695571535211384, "dur":55640, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695571535267064, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695571535267077, "dur":15138, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695571535282232, "dur":316109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695571535598346, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1695571535598355, "dur":1563, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":14, "ts":1695571535599946, "dur":165163, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695571534951018, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695571534951018, "dur":3697, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695571534954723, "dur":12746, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1695571534967472, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695571534967484, "dur":1701, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":15, "ts":1695571534969250, "dur":66173, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535035428, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695571535035436, "dur":1494, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535036972, "dur":41945, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535078922, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695571535078933, "dur":1207, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535080169, "dur":54533, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535134709, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695571535134722, "dur":1742, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535136488, "dur":69573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535206070, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695571535206085, "dur":2177, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535208289, "dur":38564, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535246859, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695571535246869, "dur":2142, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535249048, "dur":49818, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535298870, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695571535298878, "dur":1532, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535300428, "dur":130148, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535430582, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695571535430592, "dur":8885, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535439496, "dur":186559, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535626059, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1695571535626066, "dur":1256, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":15, "ts":1695571535627338, "dur":137768, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571534951041, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571534951042, "dur":3671, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571534954724, "dur":591, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1695571534955318, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571534957095, "dur":2682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":16, "ts":1695571534959829, "dur":97, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1695571534959929, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571534959935, "dur":5279, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":16, "ts":1695571534965253, "dur":477, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu.exe" }}
+,{ "pid":12345, "tid":16, "ts":1695571534965732, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571534965737, "dur":1550, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu.exe" }}
+,{ "pid":12345, "tid":16, "ts":1695571534967303, "dur":114, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1695571534967420, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571534967749, "dur":27327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":16, "ts":1695571534995172, "dur":43353, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535038530, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571535038539, "dur":1378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535039940, "dur":72432, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535112377, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571535114545, "dur":1515, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535116103, "dur":34573, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535150688, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571535150699, "dur":1157, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535151876, "dur":62925, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535214806, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571535214814, "dur":1621, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535216462, "dur":43020, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535259488, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571535259500, "dur":2147, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535261664, "dur":155121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535416791, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571535416804, "dur":1951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535418776, "dur":166778, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535585561, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1695571535585572, "dur":1535, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/deadbfl/Desktop/YemekOyunuBuild/Yemek Oyunu_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":16, "ts":1695571535587133, "dur":177981, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1695571535767457, "dur":1709, "ph":"X", "name": "ProfilerWriteOutput" }
+,
